@@ -1,0 +1,16 @@
+{
+"companyName": "Group_01",
+"productName": "20/7/2022",
+"productVersion": "0.2",
+"dataUrl": "WebXRExporter_Mobile.data.unityweb",
+"wasmCodeUrl": "WebXRExporter_Mobile.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebXRExporter_Mobile.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
